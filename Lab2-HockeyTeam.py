@@ -1,15 +1,14 @@
-# LAB 1 - THE PAINT SHOP
-# Code a Python program that calculates the amount of paint you need to cover the walls in your family room. 
-# The salesperson at the home improvement store told you to buy 1 gallon of paint for every 150 square feet of 
-# wall you need to paint.
+# LAB 2 - HOCKEY TEAM
+#Write a program that will ask the user to enter the name of a hockey team, how many wins the team has and 
+# how many losses #the team has.
 
-# Assuming that the room is rectangular in shape, the program should take in as input the width of your 
-# two sets of walls and the height of the room.
+#The program should calculate and display a single string output containing the team name, it's win-loss 
+# ratio and the win #percentage formatted to 4 decimal places.
 
-# The program should output the number of gallons required to paint the room. 
-# Paint is sold only by the gallon.
+#Ex: The Calgary Flames have 10 wins and 5 losses, with a win percentage of 0.6667.
 
-#Purpose/Concepts: Input and output to screen, string concatentation, datatype casting, simple math operations
+#Purpose/Concepts: Input and output to screen, string concatentation, string formatting, datatype casting, 
+# simple math operations
 
 def main():
     # YOUR CODE STARTS HERE, each line must be indented (one tab)
